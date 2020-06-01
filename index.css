@@ -1,0 +1,35 @@
+*{
+    font-family: sans-serif;
+}
+
+form{
+    width: 100%;
+    text-align: center;
+}
+
+form input{
+    width: 70%;
+    font-size: 18px;
+    padding: 5px 10px;
+}
+
+form button{
+    width: 20%;
+    cursor: pointer;
+    font-size: 18px;
+    padding: 5px 10px;
+}
+
+textarea{
+    width: 90%;
+}
+
+.center{
+    text-align: center;
+}
+
+.center input{
+    width: 70%;
+    font-size: 18px;
+    padding: 5px 10px;
+}
